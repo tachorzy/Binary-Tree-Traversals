@@ -18,6 +18,8 @@ Output:
 3 5 6 4 2 8 9 7 1
 ```
 Explanation:
+
 The tree can be reconstructed from the input as:
+
 ![image](http://www2.cs.uh.edu/~panruowu/2022f_cosc3320/hw3_pc/pc5.png)
 
